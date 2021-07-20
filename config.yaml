@@ -35,3 +35,15 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: psco-main
+    name: The ProSouth Company
+    url: 'https://prosouth.co/'
+    method: GET
+    expectStatus: 200    
+ 
+ - id: snap
+    name: Snap Equipment
+    url: 'https://snapequip.com/'
+    method: GET
+    expectStatus: 200  
